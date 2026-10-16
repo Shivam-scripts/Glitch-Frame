@@ -86,11 +86,6 @@ These are possible future enhancements and are not necessarily part of the curre
 ## 🤝 Contributing
 
 Suggestions, bug reports, and ideas for improvement are welcome. If you encounter an issue, provide the relevant After Effects version, steps to reproduce it, and details about the selected layer and script settings.
-
-## 📄 License
-
-No license has been specified yet. Please add a `LICENSE` file before distributing the project under an open-source license.
-
 ---
 
 **Glitch Frame** — Less repetitive setup, more time for creativity.
